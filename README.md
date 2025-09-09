@@ -1,4 +1,4 @@
-# Support Ticket Auto-Tagging (Gemini + LangChain)
+# Support Ticket Auto-Tagging 
 
 ## 🎯 Objective
 The goal of this project is to automatically classify customer support tickets into the most relevant categories (tags) using Google Gemini LLM and LangChain. This helps reduce manual work for support teams and ensures faster response times.
